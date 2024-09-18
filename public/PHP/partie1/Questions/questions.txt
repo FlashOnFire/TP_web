@@ -1,0 +1,2 @@
+1) Le Dollar $
+2) Si le langage reste typé, je pense que ça revient sensiblement au même. Cela ressemble au javascript ou au Rust avec les let mais je trouve dommage que l'IDE ne rajoute pas le typé inféré à côté pour plus de lisibilité.
