@@ -1,4 +1,4 @@
-<html>
+<html lang="fr">
 <head>
     <title>PHP Partie 2</title>
     <meta charset="utf-8">
